@@ -1,7 +1,5 @@
 # TodoApp
 
-![TodoApp Logo](https://via.placeholder.com/150)
-
 **TodoApp** adalah aplikasi manajemen tugas berbasis web yang dibangun menggunakan **React** untuk front-end dan **Node.js** untuk back-end. Aplikasi ini memungkinkan pengguna untuk membuat, mengedit, menghapus, dan mengelompokkan tugas berdasarkan status seperti **Pending**, **In Progress**, dan **Completed**.
 
 ## 📋 Fitur Utama
