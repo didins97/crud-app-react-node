@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+
+body {
+  background: #f6f6f6;
+  font-family: "Roboto", sans-serif;
+  padding-top: 40px;
+}
+
+.btn-primary {
+  background: #446ecc;
+  border-color: #446ecc;
+  color: #ffffff;
+}
+
+.btn-primary:hover {
+  background-color: #355ba1; /* darken(#446ecc, 20%) secara manual */
+  border-color: #446ecc;
+  color: #ffffff;
+}
+
+.completed label {
+  text-decoration: line-through;
+}
+
+.completed .btn-primary {
+  background: #0eae46;
+  border-color: #0eae46;
+}
